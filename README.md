@@ -7,7 +7,7 @@ To use this template within your project, add `--template less-art` when creatin
 For example:
 
 ```sh
-npx create-react-app my-app --template less-art
+# npx create-react-app my-app --template less-art
 
 # or
 
