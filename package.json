@@ -19,5 +19,7 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "repository": "https://github.com/ochukai/cra-template-less-art.git",
+  "private": false
 }
